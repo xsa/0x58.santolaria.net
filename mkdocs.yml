@@ -18,8 +18,8 @@ theme:
     - navigation.tracking
     - toc.follow
   font:
-    text: Roboto Mono
-    code: Roboto Mono
+    text: Inconsolata
+    code: Inconsolata
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
