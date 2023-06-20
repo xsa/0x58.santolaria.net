@@ -1,0 +1,79 @@
+site_name: Xavier «X» Santolaria
+site_author: Xavier Santolaria
+site_description: Xavier Santolaria
+
+copyright: Copyright &copy; 2023 Xavier Santolaria
+
+theme:
+  icon:
+    logo: material/lock
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+  font:
+    text: Roboto Mono
+    code: Roboto Mono
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light green
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+extra_css:
+  - css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://infosec.exchange/@0x58
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/xsantola
+    - icon: fontawesome/brands/github
+      link: https://github.com/xsa
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  
+plugins:
+  - search
+  - awesome-pages:
+      filename: .pages
+      collapse_single_pages: false
+      strict: false
+  - git-revision-date-localized:
+      fallback_to_build_date: true
