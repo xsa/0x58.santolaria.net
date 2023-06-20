@@ -33,6 +33,9 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 ### Past
 
 - :blowfish: [OpenBSD Project](https://www.openbsd.org){:target="_blank"}
+    - [openbsd-src](https://github.com/openbsd/src/commits?author=xsa){:target="_blank"} commits
+    - [openbsd-ports](https://github.com/openbsd/ports/commits?author=xsa){:target="_blank"} commits
+    - [openbsd-www](https://github.com/openbsd/www/commits?author=xsa){:target="_blank"} commits
 
 ## Articles and Publications
 <small>(and other content made of ascii chars written over the years)</small>
