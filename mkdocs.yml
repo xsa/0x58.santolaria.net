@@ -25,7 +25,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
-      accent: blue
+      accent: purple
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
