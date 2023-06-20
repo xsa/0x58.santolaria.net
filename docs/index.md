@@ -1,7 +1,6 @@
 ---
 hide:
     - navigation
-    - toc
 tags:
     - cybersecurity
     - infosec
@@ -37,10 +36,9 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
     - [openbsd-ports](https://github.com/openbsd/ports/commits?author=xsa){:target="_blank"} commits
     - [openbsd-www](https://github.com/openbsd/www/commits?author=xsa){:target="_blank"} commits
 
-## Articles and Publications
+## Articles and Blog Posts
 <small>(and other content made of ascii chars written over the years)</small>
 
-### Articles and Blog Posts
 - May 03, 2023: [Is Your Critical SaaS Data Secure?](https://securityintelligence.com/posts/is-your-critical-saas-data-secure/)
 - Feb 12, 2023: [Book Club: “Inside The Box: A Proven System of Creativity for Breakthrough Results”](https://0x58.medium.com/book-club-inside-the-box-a-proven-system-of-creativity-for-breakthrough-results-ac788a49b311)
 - Jan 04, 2023: [Monitoring My EPSON XP-8600 Series Printer using Prometheus and Grafana](https://0x58.medium.com/monitoring-my-epson-xp-8600-series-printer-using-prometheus-and-grafana-26d95f5d449d)
@@ -71,5 +69,5 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 - Oct 31, 2003: [OpenBSD: SSH pubkey authentication](articles/openbsd-ssh-pubkey-auth.md)
 - May 21, 2003: [OpenBSD: Using Procmail and Mutt to filter mailing lists](articles/openbsd-procmail-mutt.md)
 
-### Publications
+## Publications
 - Jan 01, 2004: [The aMAZE LightBench: a web interface to a relational database of cellular processes](https://pubmed.ncbi.nlm.nih.gov/14681453/)
