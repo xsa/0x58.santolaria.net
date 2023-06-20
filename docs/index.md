@@ -12,7 +12,7 @@ tags:
 
 ## About
 
-Cloud Security Solutions Architect | IBM Inventor | Member of the IBM Academy of Technology (AoT)
+Cloud Security Solutions Architect | IBM Inventor | [Member of the IBM Academy of Technology (AoT)](https://0x58.medium.com/welcome-you-have-been-appointed-to-our-ibm-academy-of-technology-6affff1c2bdc){:target="_blank"}
 
 Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https://www.x14s.com){:target="_blank"}
 
