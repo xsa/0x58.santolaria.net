@@ -75,3 +75,4 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 ## My Gear
 
 - :keyboard: My Keyboard - Keychron K3 Ultra Slim Mechanical - [https://amzn.to/449KQgp](https://amzn.to/449KQgp){:target="_blank"}
+- :mouse_three_button: My Mouse - Logitec MX Master 3S - [https://amzn.to/3O09uud](https://amzn.to/3O09uud){:target="_blank"}
