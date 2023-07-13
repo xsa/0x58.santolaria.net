@@ -7,6 +7,7 @@ copyright: >
   <a href="#__consent">Change cookie settings</a>
 
 theme:
+  favicon: images/favicon.png
   icon:
     logo: material/lock
   name: material
