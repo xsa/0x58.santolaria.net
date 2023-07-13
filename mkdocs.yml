@@ -59,6 +59,8 @@ extra:
       - accept
       - reject
   social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@0x58_
     - icon: fontawesome/brands/mastodon 
       link: https://infosec.exchange/@0x58
     - icon: fontawesome/brands/linkedin
