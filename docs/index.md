@@ -17,6 +17,7 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 
 - :fontawesome-brands-github: [github.com/xsa](https://github.com/xsa){:target="_blank"}
 - :fontawesome-brands-mastodon: <a rel="me" href="https://infosec.exchange/@0x58" target="_blank">@0x58@infosec.exchange</a>
+- :material-bookshelf: [@0x58@bookrastinating.com](https://bookrastinating.com/user/0x58){:target="_blank"}
 - :fontawesome-brands-youtube: [youtube.com/@0x58_](https://youtube.com/@0x58_){:target="_blank"}
 - :fontawesome-brands-linkedin: [linkedin.com/in/xsantola](https://linkedin.com/in/xsantola){:target="_blank"}
 - :fontawesome-brands-keybase: [keybase.io/xsa](https://keybase.io/xsa){:target="_blank"}
