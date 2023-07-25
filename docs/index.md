@@ -40,6 +40,7 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 ## Articles and Blog Posts
 <small>(and other content made of ascii chars written over the years)</small>
 
+- Jul 25, 2023: [Combining EPP and EDR tools can boost your endpoint security](https://securityintelligence.com/posts/combining-epp-and-edr-tools-can-boost-your-endpoint-security/){:target="_blank"} <small>[securityintelligence.com]</small>
 - May 03, 2023: [Is Your Critical SaaS Data Secure?](https://securityintelligence.com/posts/is-your-critical-saas-data-secure/){:target="_blank"} <small>[securityintelligence.com]</small>
 - Feb 12, 2023: [Book Club: “Inside The Box: A Proven System of Creativity for Breakthrough Results”](https://0x58.medium.com/book-club-inside-the-box-a-proven-system-of-creativity-for-breakthrough-results-ac788a49b311){:target="_blank"} <small>[medium.com]</small>
 - Jan 04, 2023: [Monitoring My EPSON XP-8600 Series Printer using Prometheus and Grafana](https://0x58.medium.com/monitoring-my-epson-xp-8600-series-printer-using-prometheus-and-grafana-26d95f5d449d){:target="_blank"} <small>[medium.com]</small>
