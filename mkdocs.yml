@@ -21,8 +21,8 @@ theme:
     - navigation.tracking
     - toc.follow
   font:
-    text: Inconsolata
-    code: Inconsolata
+    text: Noto Sans Mono
+    code: Noto Sans Mono
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
