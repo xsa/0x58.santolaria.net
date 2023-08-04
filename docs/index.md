@@ -79,3 +79,4 @@ Open Source Advocate | Hacker | ex-OpenBSD (xsa@) | [Field Hockey Coach](https:/
 - :keyboard: My Keyboard - Keychron K3 Ultra Slim Mechanical - [https://amzn.to/449KQgp](https://amzn.to/449KQgp){:target="_blank"}
 - :mouse_three_button: My Mouse - Logitec MX Master 3S - [https://amzn.to/3O09uud](https://amzn.to/3O09uud){:target="_blank"}
 - :material-webcam: My Webcam - Logitech Brio 4K - [https://amzn.to/3NXs4SS](https://amzn.to/3NXs4SS)
+- :material-glasses: My Blue Light Filtering Glasses - Ray-Ban Men's RB4089 Balorama - [https://amzn.to/43W0LxW](https://amzn.to/43W0LxW)
