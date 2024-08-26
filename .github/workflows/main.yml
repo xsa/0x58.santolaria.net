@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
-
+      - name: Make sure pip is always up-to-date
+        run: pip install --upgrade pip
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
